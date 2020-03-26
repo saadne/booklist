@@ -13,12 +13,14 @@ body {
   margin: 20px auto;
   width: 90%;
   color: #eee;
+
 }
 
 .navbar {
   padding: 10px 20px;
   text-align: center;
   background: #e407e4;
+  border-radius: 5px;
 }
 
 .navbar h1 {
@@ -77,12 +79,16 @@ input[type='text'] {
   background: #f194e2;
   color: #fff;
   border: 0;
+  border-radius: 5px;
 }
 
 input[type='submit'] {
   margin: 10px auto;
-  background: #eee;
+  background: #e407e4;
   border: 0;
-  padding: 6px 20px;
+  padding: 8px 22px;
   display: block;
+  color: #ddd;
+  font-size: 1rem;
+  border-radius: 5px;
 }
