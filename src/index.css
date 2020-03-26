@@ -5,11 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #553055;
+  background: rgb(143, 8, 109);
 }
 
 .App {
-  background: #4c2a4c;
+  background: #862d86;
   margin: 20px auto;
   width: 90%;
   color: #eee;
@@ -18,7 +18,7 @@ body {
 .navbar {
   padding: 10px 20px;
   text-align: center;
-  background: #6d3d6d;
+  background: #e407e4;
 }
 
 .navbar h1 {
@@ -35,7 +35,7 @@ body {
 }
 
 .book-list li {
-  background: #6d3d6d;
+  background: #e407e4;
   border-radius: 4px;
   padding: 10px;
   cursor: pointer;
@@ -74,7 +74,7 @@ input[type='text'] {
   padding: 10px;
   box-sizing: border-box;
   margin: 6px 0;
-  background: #3c1f3c;
+  background: #f194e2;
   color: #fff;
   border: 0;
 }
